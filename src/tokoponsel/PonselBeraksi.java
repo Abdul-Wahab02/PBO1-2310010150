@@ -5,6 +5,7 @@ public class PonselBeraksi {
     public static void main(String[] args) {
         Ponsel Samsung = new Ponsel();
         Ponsel Vivo = new Ponsel();
+        Ponsel Infinix = new Ponsel();
         
         Samsung.merek = "Samsung";
         Samsung.harga = 4000000;
